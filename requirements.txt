@@ -1,0 +1,7 @@
+Flask
+pyrofork
+tgcrypto
+pyrogram
+pymongo
+pycryptodome
+
