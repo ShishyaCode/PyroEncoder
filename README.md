@@ -31,8 +31,15 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/Shishyacode/PyroEncoder.git
-```
+
 cd PyroEncoder
+
+pip install -r requirements.txt
+
+and finally
+
+- python bot.py
+```
 
 > ⚠️ **Note:** This Bot code freely avilable on github [shishyacode](https://github.com/ShishyaCode) If you buy this script from anyone then u got scammed
 
