@@ -31,6 +31,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/Shishyacode/PyroEncoder.git
+```
 cd PyroEncoder
 
 > ⚠️ **Note:** This Bot code freely avilable on github [shishyacode](https://github.com/ShishyaCode) If you buy this script from anyone then u got scammed
